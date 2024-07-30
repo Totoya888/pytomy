@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "LClass": "02",
+      "sub": [
+        {
+          "MClass": "01",
+          "sub": [
+            {
+              "SClass": "01",
+              "info": [
+                {
+                  "name": "test1",
+                  "price": 100,
+                  "point": 1000
+                },
+                {
+                  "name": "test2",
+                  "price": 200,
+                  "point": 2000
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

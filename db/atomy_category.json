@@ -1,0 +1,377 @@
+{
+    "date": "2024-07-01",
+    "category": [
+        {
+            "index": "01",
+            "name": "HemoHIM G",
+            "subCategories": []
+        },
+        {
+            "index": "02",
+            "name": "食品",
+            "subCategories": [
+                {
+                    "index": "01",
+                    "name": "機能性食品",
+                    "items": [
+                        {
+                            "index": "01",
+                            "name": "粉狀類"
+                        },
+                        {
+                            "index": "02",
+                            "name": "膠囊類"
+                        },
+                        {
+                            "index": "03",
+                            "name": "錠狀類"
+                        },
+                        {
+                            "index": "04",
+                            "name": "飲品類"
+                        },
+                        {
+                            "index": "05",
+                            "name": "其他類"
+                        }
+                    ]
+                },
+                {
+                    "index": "02",
+                    "name": "一般食品",
+                    "items": [
+                        {
+                            "index": "01",
+                            "name": "休閒零食"
+                        },
+                        {
+                            "index": "02",
+                            "name": "米/麵類"
+                        },
+                        {
+                            "index": "03",
+                            "name": "沖泡飲品"
+                        },
+                        {
+                            "index": "04",
+                            "name": "調味料"
+                        },
+                        {
+                            "index": "05",
+                            "name": "其他類"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "index": "03",
+            "name": "美容護膚品",
+            "subCategories": [
+                {
+                    "index": "01",
+                    "name": "肌膚保養系列",
+                    "items": [
+                        {
+                            "index": "01",
+                            "name": "保濕護膚"
+                        },
+                        {
+                            "index": "02",
+                            "name": "卸妝清潔"
+                        },
+                        {
+                            "index": "03",
+                            "name": "面膜"
+                        },
+                        {
+                            "index": "04",
+                            "name": "防曬"
+                        }
+                    ]
+                },
+                {
+                    "index": "02",
+                    "name": "彩妝系列",
+                    "items": [
+                        {
+                            "index": "01",
+                            "name": "臉部彩妝"
+                        },
+                        {
+                            "index": "02",
+                            "name": "眼/唇部彩妝"
+                        }
+                    ]
+                },
+                {
+                    "index": "03",
+                    "name": "凝萃系列",
+                    "items": []
+                },
+                {
+                    "index": "04",
+                    "name": "經典保養五件組",
+                    "items": []
+                },
+                {
+                    "index": "05",
+                    "name": "清潔護膚四件組",
+                    "items": []
+                },
+                {
+                    "index": "06",
+                    "name": "Homme男士系列",
+                    "items": []
+                },
+                {
+                    "index": "07",
+                    "name": "積雪草舒緩系列",
+                    "items": []
+                },
+                {
+                    "index": "08",
+                    "name": "平衡調理系列",
+                    "items": []
+                },
+                {
+                    "index": "09",
+                    "name": "水嫩亮白系列",
+                    "items": []
+                },
+                {
+                    "index": "10",
+                    "name": "精油芳香調理",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "index": "04",
+            "name": "個人日用品",
+            "subCategories": [
+                {
+                    "index": "01",
+                    "name": "頭髮保養",
+                    "items": [
+                        {
+                            "index": "01",
+                            "name": "頭髮清潔"
+                        },
+                        {
+                            "index": "02",
+                            "name": "頭髮保養"
+                        },
+                        {
+                            "index": "03",
+                            "name": "凝萃煥髪三部曲"
+                        },
+                        {
+                            "index": "04",
+                            "name": "蛋白修護系列"
+                        },
+                        {
+                            "index": "05",
+                            "name": "泡泡染髮乳"
+                        }
+                    ]
+                },
+                {
+                    "index": "02",
+                    "name": "身體保養",
+                    "items": [
+                        {
+                            "index": "01",
+                            "name": "身體清潔"
+                        },
+                        {
+                            "index": "02",
+                            "name": "身體保養"
+                        },
+                        {
+                            "index": "03",
+                            "name": "手部清潔保養"
+                        }
+                    ]
+                },
+                {
+                    "index": "03",
+                    "name": "精油貼布",
+                    "items": []
+                },
+                {
+                    "index": "04",
+                    "name": "口腔護理",
+                    "items": []
+                },
+                {
+                    "index": "05",
+                    "name": " 輕柔棉系列",
+                    "items": []
+                },
+                {
+                    "index": "06",
+                    "name": "PTFE薄膜口罩",
+                    "items": []
+                },
+                {
+                    "index": "07",
+                    "name": "凝萃煥髪三部曲",
+                    "items": []
+                },
+                {
+                    "index": "08",
+                    "name": "柔護寶貝系列",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "index": "05",
+            "name": "居家用品",
+            "subCategories": [
+                {
+                    "index": "01",
+                    "name": "廚房用具",
+                    "items": [
+                        {
+                            "index": "01",
+                            "name": "鍋具"
+                        },
+                        {
+                            "index": "02",
+                            "name": "廚房清潔"
+                        }
+                    ]
+                },
+                {
+                    "index": "02",
+                    "name": " 衣物清潔",
+                    "items": []
+                },
+                {
+                    "index": "03",
+                    "name": "日用紙品",
+                    "items": [
+                        {
+                            "index": "01",
+                            "name": " 衛生紙"
+                        },
+                        {
+                            "index": "02",
+                            "name": "濕紙巾"
+                        },
+                        {
+                            "index": "03",
+                            "name": "衛生棉"
+                        }
+                    ]
+                },
+                {
+                    "index": "04",
+                    "name": "生活用品",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "index": "06",
+            "name": "特定組合",
+            "subCategories": [
+                {
+                    "index": "01",
+                    "name": " 旅行組",
+                    "items": []
+                },
+                {
+                    "index": "02",
+                    "name": "獨立配送商品",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "index": "07",
+            "name": "周邊商品",
+            "subCategories": [
+                {
+                    "index": "01",
+                    "name": "輔銷商品",
+                    "items": []
+                },
+                {
+                    "index": "02",
+                    "name": "Some problem?!",
+                    "items": []
+                },
+                {
+                    "index": "03",
+                    "name": "艾多美 萬用手冊內頁",
+                    "items": []
+                },
+                {
+                    "index": "04",
+                    "name": "Some problem?!",
+                    "items": []
+                },
+                {
+                    "index": "05",
+                    "name": "艾多美 萬用手冊內頁",
+                    "items": []
+                }
+            ]
+        },
+        {
+            "index": "08",
+            "name": "ATOMYAZA",
+            "subCategories": [
+                {
+                    "index": "01",
+                    "name": "3C家電",
+                    "items": [
+                        {
+                            "index": "01",
+                            "name": "大型家電"
+                        },
+                        {
+                            "index": "02",
+                            "name": "小型家電"
+                        },
+                        {
+                            "index": "03",
+                            "name": "3C產品"
+                        }
+                    ]
+                },
+                {
+                    "index": "02",
+                    "name": "食品",
+                    "items": [
+                        {
+                            "index": "01",
+                            "name": "生鮮/調味料"
+                        }
+                    ]
+                },
+                {
+                    "index": "03",
+                    "name": "日用生活",
+                    "items": [
+                        {
+                            "index": "01",
+                            "name": "PTFE薄膜口罩"
+                        },
+                        {
+                            "index": "02",
+                            "name": "嬰兒/成人 紙尿褲"
+                        },
+                        {
+                            "index": "03",
+                            "name": "機能襪"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
