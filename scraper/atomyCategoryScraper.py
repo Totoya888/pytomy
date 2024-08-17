@@ -1,4 +1,3 @@
-from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.select import Select
 from bs4 import BeautifulSoup
@@ -8,17 +7,17 @@ import pprint
 import re
 import json
 from PyQt6 import QtWidgets
+from datetime import datetime
 
 class AtomyCategoryScraper:
-  def __init__(self, progress_bar: QtWidgets.QProgressBar) -> None:
+  def __init__(self) -> None:
     self.LClass = '02'
     self.MClass = '01'
     self.SClass = '00'
-    self.allCategory = {"category": []}
+    self.allCategory = {"date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),"category": []}
     self.URL = 'https://www.atomy.com:449/tw/Home/Product/ProductList'
     # self.driver = webdriver.Edge()
     self.progress_value = 0
-    progress_bar.setValue(self.progress_value)
 
   def select_all(self):
     time.sleep(0.5)
@@ -39,7 +38,6 @@ class AtomyCategoryScraper:
   
   def get_LM_category(self):
     for i in range(1, 9):
-      print(i)
       self.LClass = "0" + str(i)
       self.MClass = "01"
       self.SClass = "01"
@@ -61,12 +59,9 @@ class AtomyCategoryScraper:
           self.MClass =  "0" + str(int(self.MClass) + 1)
         else:
           self.MClass = str(int(self.MClass) + 1)
-      
-      # print(self.LClass, "Stitles: ", Stitles)
-    
+
   def get_SClass_titles(self):
       for i in range(2, 9):
-        print(i)
         self.LClass = "0" + str(i)
         self.MClass = "01"
         self.SClass = "01"
@@ -86,8 +81,6 @@ class AtomyCategoryScraper:
               self.allCategory['category'][int(lclass_value) - 1]['subCategories'][int(mclass_value) - 1]['items'].append({"index": sclass_value, "name": Stitle.get_text()})
           else:
               print("匹配失敗")
-
-      pprint.pprint(self.allCategory)
       
   def transform_to_json(self):
     jsonFile = open('./db/atomy_category.json', 'w', encoding='utf-8')

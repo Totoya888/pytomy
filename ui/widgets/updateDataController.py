@@ -4,7 +4,7 @@ import datetime
 from scraper.atomyScraperController import update_category, update_products
 
 class UpdateDataController:
-  def __init__(self, category_date, products_date) -> None:
+  def __init__(self) -> None:
     self.updateData_window = QtWidgets.QWidget()
     self.form = Ui_Form()
     self.form.setupUi(self.updateData_window)
@@ -12,8 +12,8 @@ class UpdateDataController:
     y = self.updateData_window.pos().y()
     self.updateData_window.move(x+100, y+100)
 
-    self.category_date = category_date
-    self.products_date = products_date
+    # self.category_date = category_date
+    # self.products_date = products_date
 
     self.set_timmer()
     self.form.updateCategory.clicked.connect(lambda: update_category(self.form.progressBar))

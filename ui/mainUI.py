@@ -208,5 +208,5 @@ class MainUI:
     self.update_table(data)
 
   def open_updateData_window(self):
-    self.updateData_controller = UpdateDataController(category_date=self.category['date'], products_date=self.products['date'])
+    self.updateData_controller = UpdateDataController()
     self.updateData_controller.updateData_window.show()

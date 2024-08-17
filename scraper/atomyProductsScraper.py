@@ -3,7 +3,7 @@ from selenium.webdriver.support.ui import Select
 from selenium.webdriver.common.by import By
 import json
 from pprint import pprint
-
+from datetime import datetime
 from bs4 import BeautifulSoup
 import requests
 
@@ -13,7 +13,7 @@ class AtomyProductsScraper:
     self.LClass = "02"
     self.MClass = "01"
     self.SClass = "01"
-    self.all_products = {"body": []}
+    self.all_products = {"date": datetime.now().strftime("%Y-%m-%d %H:%M:%S"), "body": []}
     self.URL = 'https://www.atomy.com:449/tw/Home/Product/ProductList'
     
   def select_all(self):

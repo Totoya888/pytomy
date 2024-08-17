@@ -1,0 +1,55 @@
+{
+  "date": "2024-08-17 11:03:54",
+  "body": {
+    "index": "08",
+    "name": "ATOMYAZA",
+    "subCategories": [
+      {
+        "index": "01",
+        "name": "3C\u5bb6\u96fb",
+        "items": [
+          {
+            "index": "01",
+            "name": "\u5927\u578b\u5bb6\u96fb"
+          },
+          {
+            "index": "02",
+            "name": "\u5c0f\u578b\u5bb6\u96fb"
+          },
+          {
+            "index": "03",
+            "name": "3C\u7522\u54c1"
+          }
+        ]
+      },
+      {
+        "index": "02",
+        "name": "\u98df\u54c1",
+        "items": [
+          {
+            "index": "01",
+            "name": "\u751f\u9bae/\u8abf\u5473\u6599"
+          }
+        ]
+      },
+      {
+        "index": "03",
+        "name": "\u65e5\u7528\u751f\u6d3b",
+        "items": [
+          {
+            "index": "01",
+            "name": "PTFE\u8584\u819c\u53e3\u7f69"
+          },
+          {
+            "index": "02",
+            "name": "\u5b30\u5152/\u6210\u4eba \u7d19\u5c3f\u8932"
+          },
+          {
+            "index": "03",
+            "name": "\u6a5f\u80fd\u896a"
+          }
+        ]
+      }
+    ]
+  }
+}
