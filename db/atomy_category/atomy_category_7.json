@@ -6,47 +6,47 @@
     "subCategories": [
       {
         "index": "01",
-        "name": "3C\u5bb6\u96fb",
+        "name": "3C家電",
         "items": [
           {
             "index": "01",
-            "name": "\u5927\u578b\u5bb6\u96fb"
+            "name": "大型家電"
           },
           {
             "index": "02",
-            "name": "\u5c0f\u578b\u5bb6\u96fb"
+            "name": "小型家電"
           },
           {
             "index": "03",
-            "name": "3C\u7522\u54c1"
+            "name": "3C產品"
           }
         ]
       },
       {
         "index": "02",
-        "name": "\u98df\u54c1",
+        "name": "食品",
         "items": [
           {
             "index": "01",
-            "name": "\u751f\u9bae/\u8abf\u5473\u6599"
+            "name": "生鮮/調味料"
           }
         ]
       },
       {
         "index": "03",
-        "name": "\u65e5\u7528\u751f\u6d3b",
+        "name": "日用生活",
         "items": [
           {
             "index": "01",
-            "name": "PTFE\u8584\u819c\u53e3\u7f69"
+            "name": "PTFE薄膜口罩"
           },
           {
             "index": "02",
-            "name": "\u5b30\u5152/\u6210\u4eba \u7d19\u5c3f\u8932"
+            "name": "嬰兒/成人 紙尿褲"
           },
           {
             "index": "03",
-            "name": "\u6a5f\u80fd\u896a"
+            "name": "機能襪"
           }
         ]
       }

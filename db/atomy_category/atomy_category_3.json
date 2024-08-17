@@ -2,80 +2,80 @@
   "date": "2024-08-17 11:03:54",
   "body": {
     "index": "04",
-    "name": "\u500b\u4eba\u65e5\u7528\u54c1",
+    "name": "個人日用品",
     "subCategories": [
       {
         "index": "01",
-        "name": "\u982d\u9aee\u4fdd\u990a",
+        "name": "頭髮保養",
         "items": [
           {
             "index": "01",
-            "name": "\u982d\u9aee\u6e05\u6f54"
+            "name": "頭髮清潔"
           },
           {
             "index": "02",
-            "name": "\u982d\u9aee\u4fdd\u990a"
+            "name": "頭髮保養"
           },
           {
             "index": "03",
-            "name": "\u51dd\u8403\u7165\u9aea\u4e09\u90e8\u66f2"
+            "name": "凝萃煥髪三部曲"
           },
           {
             "index": "04",
-            "name": "\u86cb\u767d\u4fee\u8b77\u7cfb\u5217"
+            "name": "蛋白修護系列"
           },
           {
             "index": "05",
-            "name": "\u6ce1\u6ce1\u67d3\u9aee\u4e73"
+            "name": "泡泡染髮乳"
           }
         ]
       },
       {
         "index": "02",
-        "name": "\u8eab\u9ad4\u4fdd\u990a",
+        "name": "身體保養",
         "items": [
           {
             "index": "01",
-            "name": "\u8eab\u9ad4\u6e05\u6f54"
+            "name": "身體清潔"
           },
           {
             "index": "02",
-            "name": "\u8eab\u9ad4\u4fdd\u990a"
+            "name": "身體保養"
           },
           {
             "index": "03",
-            "name": "\u624b\u90e8\u6e05\u6f54\u4fdd\u990a"
+            "name": "手部清潔保養"
           }
         ]
       },
       {
         "index": "03",
-        "name": "\u7cbe\u6cb9\u8cbc\u5e03",
+        "name": "精油貼布",
         "items": []
       },
       {
         "index": "04",
-        "name": "\u53e3\u8154\u8b77\u7406",
+        "name": "口腔護理",
         "items": []
       },
       {
         "index": "05",
-        "name": " \u8f15\u67d4\u68c9\u7cfb\u5217",
+        "name": " 輕柔棉系列",
         "items": []
       },
       {
         "index": "06",
-        "name": "PTFE\u8584\u819c\u53e3\u7f69",
+        "name": "PTFE薄膜口罩",
         "items": []
       },
       {
         "index": "07",
-        "name": "\u51dd\u8403\u7165\u9aea\u4e09\u90e8\u66f2",
+        "name": "凝萃煥髪三部曲",
         "items": []
       },
       {
         "index": "08",
-        "name": "\u67d4\u8b77\u5bf6\u8c9d\u7cfb\u5217",
+        "name": "柔護寶貝系列",
         "items": []
       }
     ]

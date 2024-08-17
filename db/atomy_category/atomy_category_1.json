@@ -2,57 +2,57 @@
   "date": "2024-08-17 11:03:54",
   "body": {
     "index": "02",
-    "name": "\u98df\u54c1",
+    "name": "食品",
     "subCategories": [
       {
         "index": "01",
-        "name": "\u6a5f\u80fd\u6027\u98df\u54c1",
+        "name": "機能性食品",
         "items": [
           {
             "index": "01",
-            "name": "\u7c89\u72c0\u985e"
+            "name": "粉狀類"
           },
           {
             "index": "02",
-            "name": "\u81a0\u56ca\u985e"
+            "name": "膠囊類"
           },
           {
             "index": "03",
-            "name": "\u9320\u72c0\u985e"
+            "name": "錠狀類"
           },
           {
             "index": "04",
-            "name": "\u98f2\u54c1\u985e"
+            "name": "飲品類"
           },
           {
             "index": "05",
-            "name": "\u5176\u4ed6\u985e"
+            "name": "其他類"
           }
         ]
       },
       {
         "index": "02",
-        "name": "\u4e00\u822c\u98df\u54c1",
+        "name": "一般食品",
         "items": [
           {
             "index": "01",
-            "name": "\u4f11\u9592\u96f6\u98df"
+            "name": "休閒零食"
           },
           {
             "index": "02",
-            "name": "\u7c73/\u9eb5\u985e"
+            "name": "米/麵類"
           },
           {
             "index": "03",
-            "name": "\u6c96\u6ce1\u98f2\u54c1"
+            "name": "沖泡飲品"
           },
           {
             "index": "04",
-            "name": "\u8abf\u5473\u6599"
+            "name": "調味料"
           },
           {
             "index": "05",
-            "name": "\u5176\u4ed6\u985e"
+            "name": "其他類"
           }
         ]
       }

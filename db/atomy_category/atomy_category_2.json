@@ -2,82 +2,82 @@
   "date": "2024-08-17 11:03:54",
   "body": {
     "index": "03",
-    "name": "\u7f8e\u5bb9\u8b77\u819a\u54c1",
+    "name": "美容護膚品",
     "subCategories": [
       {
         "index": "01",
-        "name": "\u808c\u819a\u4fdd\u990a\u7cfb\u5217",
+        "name": "肌膚保養系列",
         "items": [
           {
             "index": "01",
-            "name": "\u4fdd\u6fd5\u8b77\u819a"
+            "name": "保濕護膚"
           },
           {
             "index": "02",
-            "name": "\u5378\u599d\u6e05\u6f54"
+            "name": "卸妝清潔"
           },
           {
             "index": "03",
-            "name": "\u9762\u819c"
+            "name": "面膜"
           },
           {
             "index": "04",
-            "name": "\u9632\u66ec"
+            "name": "防曬"
           }
         ]
       },
       {
         "index": "02",
-        "name": "\u5f69\u599d\u7cfb\u5217",
+        "name": "彩妝系列",
         "items": [
           {
             "index": "01",
-            "name": "\u81c9\u90e8\u5f69\u599d"
+            "name": "臉部彩妝"
           },
           {
             "index": "02",
-            "name": "\u773c/\u5507\u90e8\u5f69\u599d"
+            "name": "眼/唇部彩妝"
           }
         ]
       },
       {
         "index": "03",
-        "name": "\u51dd\u8403\u7cfb\u5217",
+        "name": "凝萃系列",
         "items": []
       },
       {
         "index": "04",
-        "name": "\u7d93\u5178\u4fdd\u990a\u4e94\u4ef6\u7d44",
+        "name": "經典保養五件組",
         "items": []
       },
       {
         "index": "05",
-        "name": "\u6e05\u6f54\u8b77\u819a\u56db\u4ef6\u7d44",
+        "name": "清潔護膚四件組",
         "items": []
       },
       {
         "index": "06",
-        "name": "Homme\u7537\u58eb\u7cfb\u5217",
+        "name": "Homme男士系列",
         "items": []
       },
       {
         "index": "07",
-        "name": "\u7a4d\u96ea\u8349\u8212\u7de9\u7cfb\u5217",
+        "name": "積雪草舒緩系列",
         "items": []
       },
       {
         "index": "08",
-        "name": "\u5e73\u8861\u8abf\u7406\u7cfb\u5217",
+        "name": "平衡調理系列",
         "items": []
       },
       {
         "index": "09",
-        "name": "\u6c34\u5ae9\u4eae\u767d\u7cfb\u5217",
+        "name": "水嫩亮白系列",
         "items": []
       },
       {
         "index": "10",
-        "name": "\u7cbe\u6cb9\u82b3\u9999\u8abf\u7406",
+        "name": "精油芳香調理",
         "items": []
       }
     ]
