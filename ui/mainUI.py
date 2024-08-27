@@ -11,7 +11,7 @@ class MainUI:
     self.MainWindow = QtWidgets.QMainWindow()
     self.ui = Ui_MainWindow()
     self.ui.setupUi(self.MainWindow)
-    # self.MainWindow.show()
+    self.MainWindow.show()
     category_file = open("./db/atomy_category.json", "r", encoding="utf-8")
     self.category = json.load(category_file)
     products_file = open("./db/atomy_products.json", "r", encoding="utf-8")
