@@ -11,10 +11,13 @@ def update_category():
   pprint(scraper.allCategory)
   print("Scraped Done!")
 
-def update_products(progress_bar: QtWidgets.QProgressBar):
-  products_scraper = AtomyProductsScraper(progress_bar)
+def update_products():
+  products_scraper = AtomyProductsScraper()
   products_scraper.add_hemohim()
   products_scraper.scrape()
   products_scraper.transform_to_json()
 
   print("Update Products Success!")
+
+def update_images():
+  pass

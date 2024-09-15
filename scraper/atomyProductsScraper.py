@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 import requests
 
 class AtomyProductsScraper:
-  def __init__(self, progress_bar):
+  def __init__(self):
     self.driver = webdriver.Edge()
     self.LClass = "02"
     self.MClass = "01"
